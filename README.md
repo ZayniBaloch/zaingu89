@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C projects
 - 📫 How to reach me zaingu89@gamil.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He.
+- ⚡ Fun fact: The coder who used to hate math
 
 <!---
 zaingu89/zaingu89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
